@@ -3,7 +3,7 @@
 ## Aim:
 To implement Matrix summation with 2D grids and blocks.
 ## Procedure:
-
+```
 1.Initialize matrix sizes (nx and ny)
 2.Allocate memory on the host and initialize data
 3.Allocate memory on the device and transfer data from the host to the device
@@ -13,6 +13,7 @@ To implement Matrix summation with 2D grids and blocks.
 7.Verify and compare the results between the host and GPU
 8.Free allocated memory
 9.Reset the GPU device
+```
 ## Program
 Float Matrix Addition
 ```
